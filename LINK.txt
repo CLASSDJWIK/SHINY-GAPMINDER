@@ -1,0 +1,2 @@
+Qui contiene  il link al shiny app  basta cliccare  e sei arrivato
+https://willykelj.shinyapps.io/interactive-gapminder2/
